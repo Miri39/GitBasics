@@ -1,1 +1,1 @@
-print('Hello, World!')
+print('Hello, World!')# TODO(lou): use a function.
